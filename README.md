@@ -1,5 +1,7 @@
 # Restaurant Management System Using C++ Fundamental Concepts
 
+![Preview](https://github.com/abishbaig/Resturant-Managment-System/assets/150265259/930ba249-eee1-4404-ad19-ad62a3c2e637)
+
 <h1>Project Description</h1>
 <p>
 This project is a food ordering and delivery platform that utilizes various programming concepts such as static, constants, enum variables, user and library define functions, selection structures, repetition structures, arrays, structures/classes and pointers in C++.
