@@ -1,6 +1,6 @@
 # Restaurant Management System Using C++ Fundamental Concepts
 
-![Preview](https://github.com/abishbaig/Resturant-Managment-System/assets/150265259/930ba249-eee1-4404-ad19-ad62a3c2e637)
+![Preview](https://github.com/abishbaig/Resturant-Managment-System/assets/150265259/20d9fed4-b95a-4137-9844-e0e78bf38281)
 
 <h1>Project Description</h1>
 <p>
